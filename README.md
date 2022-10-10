@@ -11,7 +11,7 @@ Tailwind CSS를 활용하여 웹 이력서를 만드는 디자인 대회 참여
 
 ## 🏆 수상 
 
-<img src="https://user-images.githubusercontent.com/112460430/194802508-543fcb82-4f96-4f86-9006-c36918510be7.png" width="40%">
+<img src="https://user-images.githubusercontent.com/112460430/194802508-543fcb82-4f96-4f86-9006-c36918510be7.png" width="50%">
 
 
 ## 🔍 구현 내용
